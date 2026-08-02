@@ -1,10 +1,10 @@
 # CodeAlpha\_UnemploymentAnalysis
 
-\# Unemployment Analysis with Python
+\#Unemployment Analysis with Python
 
 
 
-CodeAlpha Data Science Internship, Task 2.
+**CodeAlpha Data Science Internship, Task 2.**
 
 
 
@@ -12,7 +12,7 @@ Analysis of monthly unemployment rate data for Indian states covering May 2019 t
 
 
 
-\## Data
+**Data**
 
 
 
